@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great account delivered in to the English lords by the Scottish commissioners ; with every particular summe, and the conference by them held about the same.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62406</idno><idno type="EEBO-CITATION">12735224</idno>
+  <idno type="VID">93004</idno>
+  <idno type="EEBO-PROQUEST">2240954534</idno>
+  
+            <idno type="STC">Wing S978</idno>
+            <idno type="STC">ESTC R32631</idno>
+            <idno type="OCLC">12735224</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great account delivered in to the English lords by the Scottish commissioners ; with every particular summe, and the conference by them held about the same.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Identified on film as Wing S978 (number cancelled).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93004:1"/>
+            <pb facs="tcp:93004:1"/>
+            <p>THE Great Account <hi>DELIVERED IN</hi> To the ENGLISH Lords, BY THE <hi>Scottish Commissioners:</hi> With every particular Summe, And the Conference by them held about the same.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="military_expenses">
+            <pb facs="tcp:93004:2"/>
+            <pb facs="tcp:93004:2"/>
+            <head>The Great Account.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Esides the particular charges, and losses, which all sorts of persons have sustained this time past, and besides other extraordi<g ref="char:EOLhyphen"/>nary charges which are heereafter mentio<g ref="char:EOLhyphen"/>ned, we doe according to our knowledge, and as we have received information by such as had poli<g ref="char:EOLhyphen"/>ticke publick trust, present to your Lordships, view<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and consideration, the publicke charges and burdens, under which the whole Countries do lye, as follow<g ref="char:EOLhyphen"/>eth in the schedule anexed to the account, <hi>(viz.)</hi>
+            </p>
+            <p>The account of the severall Regiments that were first emploied, amounts to the sum of 72293. pound 15. shillings English mony. For Artillery, and A<g ref="char:EOLhyphen"/>munition at the same time, the sum of 13388. pound 6. shillings 8. pence. The fortifying of the Castle at Edenborough, and Floring; some fortifications made in Bruntill, and Inchgrave, Kin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re and Arrane, the works, and fortification made at Leith, so much of the Accounts as came in at Whitsontide extends to the some of 5399. l. 3. s. 4. d.</p>
+            <p>We doe pay for three tearms Anuall thereof be<g ref="char:EOLhyphen"/>twixt Whitsunday and Martimas at 8. l. <hi>per cent.</hi> ex<g ref="char:EOLhyphen"/>tends
+<pb facs="tcp:93004:3"/>to the summe of 10809. l. 14. s.</p>
+            <p>
+               <hi>Item,</hi> The souldiers of Forten being compleatly, from the first of September, in the Regiment, counts above written to the last of December, being foure moneths, extends to the summe of 8333. l'. 6. s. 8. d.</p>
+            <p>
+               <hi>Item,</hi> The said souldiers the number of them be<g ref="char:EOLhyphen"/>ing augmented by their comming home from that time to the fourth of <hi>May,</hi> extends to the summe of 10833.6.8.</p>
+            <p>
+               <hi>Item,</hi> For the battery made to defend the Castle of Edenburgh, running trenches made for carrying Amunition and convoying men about a great part of the town in view of Earth, Deale, and Dung, for sav<g ref="char:EOLhyphen"/>ing the people throw all the town, for making up the fortification of L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith, that came not in to the former account, and for reparation of the worke, and for for<g ref="char:EOLhyphen"/>tification and trenches to the parties, whose grounds, gardens, and houses, were demollished; for making the fortification, and trenches about the Castle, ex<g ref="char:EOLhyphen"/>tends to the summe of 7166. l'. 13. s. 4. d.</p>
+            <p>
+               <hi>Item,</hi> For General Major <hi>Monro</hi> his Regiment from the first of <hi>March,</hi> to the last of <hi>November,</hi> extends to the summe of 15000. l'.</p>
+            <p>
+               <hi>Summa lateri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 143223. l'. 15. s. 8. d.</p>
+            <p>
+               <hi>Item,</hi> For two small Regiments kept in Edenburgh for garding the towns, and keeping watch about the Castle, they consisting on 1200. men, being listed in the end of <hi>March,</hi> and were kept to the beginning of <hi>October,</hi> extends to the summe of 10500. l'.</p>
+            <pb facs="tcp:93004:3"/>
+            <p>
+               <hi>Item,</hi> For the pay of 400. foot that lay at Minros<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, from the begining to the last of <hi>August,</hi> and for leavy mony of 4. s. 6. d. apeece extending to all, the sum of 1920. l'. 13. s. 4. d.</p>
+            <p>
+               <hi>Item,</hi> For 60. horse that lay there in troopes foure moneths, extends to the sum of 816. l'. 6. s. 8. d.</p>
+            <p>
+               <hi>Item,</hi> Lieutenant Colonell <hi>Homes</hi> Regiment from the first of <hi>Aprill</hi> to the last of <hi>November,</hi> extends to 70500. l'.</p>
+            <p>
+               <hi>Item,</hi> The Earle of Argiles expedition in this yeare, extends to 3333. l'. 6. s. 8. d.</p>
+            <p>
+               <hi>Item,</hi> The Factors counts of amunition and armes this yeare, extends to the summe of 25000. l'.</p>
+            <p>
+               <hi>Item,</hi> The foot Army consisting betweene 22000. and 24000. men, with 2500. ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, was 3. moneths and an halfe at 40000. l'. a moneth, do extend to the summe of 140000. l'. <hi>Item,</hi> the Army being a moneth and an halfe, extends to the summe of 60000. l'.</p>
+            <p>
+               <hi>Item,</hi> Levy monies advanced to the footemen to bring them to the Randevous, to some 2. s. to some 3. s. to some 5. s. as they lay in distance from their Randevous, which was at the least to every footman over head 3. 4. d. which extends to the summe of 3646. l'. 13. s. 4. d.</p>
+            <p>
+               <hi>Item,</hi> Leavy to 2500. horsemen at 6. s. 8. d. apeece extends to the summe of 833. l'. 6. 8. d.</p>
+            <p>
+               <hi>Item</hi> For entertaining of souldiers at the Castle of Dumberton, and upon Clyde, making forti<g ref="char:EOLhyphen"/>fication at both places, doe extend to the summe of 30343. l'. 6. s. 8. d.</p>
+            <pb facs="tcp:93004:4"/>
+            <p>
+               <hi>Item,</hi> The Earle of Marshall his Regiment ex<g ref="char:EOLhyphen"/>tends to the summe of 30333. l'. 6. s. 8. d.</p>
+            <p>
+               <hi>Item,</hi> My Lord <hi>Sincklars</hi> Regiment being lately divided, extends to the sum of 10666. l'. 13. s. 4. d.</p>
+            <p>
+               <hi>Summa lateris</hi> 266904. l'. 13. s. 4. d.</p>
+            <p>
+               <hi>Item,</hi> The value of 65. ships given up in the list, besides many others not yet come to our know<g ref="char:EOLhyphen"/>ledge, which with the loading and losse they had by want of trade, by nine moneths rest, extends to the summe of 52700.</p>
+            <p>
+               <hi>The delivery of the shippes will abate so much of this at the shippes are presently worth.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> About five hundred Scotch ships were stop<g ref="char:EOLhyphen"/>ped from trading, by the English ships, by the space of six or seven moneths: Many of the native commo<g ref="char:EOLhyphen"/>dities, that use ordinarily to be exported, were sold the third peny downe of their value, the prejudice thereof shall bee instructed, much to exceed that which we desire, but doe onely here set the summe herein to extend to the summe of 50000. l'.</p>
+            <p>
+               <hi>Item,</hi> For some fortification made at Tantallam, and a watch-kept there, and at the Basse and Linton bridge, the summe of 7000. l'.</p>
+            <p>
+               <hi>Item,</hi> For two shippes sunke at Clyde, to stop the passing of the English, some having come in before, and were valued at 600. l'.</p>
+            <p>
+               <hi>Summa lateris</hi> 104000.</p>
+            <p>The Kingdome of Scotland hath sustained divers other great burthens of this nature, which wee wil<g ref="char:EOLhyphen"/>lingly
+<pb facs="tcp:93004:4"/>undergoe by our selves, and doe represent the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame to consideration; but your Lordships may con<g ref="char:EOLhyphen"/>ceive how much wee are thereby disabled to beare any so great part of the burden as wee would other<g ref="char:EOLhyphen"/>wise have willingly undergone: As first, the particu<g ref="char:EOLhyphen"/>lar charges sustained by the Nobility, Gentry, Bur<g ref="char:EOLhyphen"/>roughes of our Kingdome, by reason of the great troubles and Armies which shall bee made appeare to be above 100000. l'.</p>
+            <p>
+               <hi>Item,</hi> the neglect and over-sight of their particular fortunes, can be no lesse then the 100000 l'. aforesaid, besides expeditions in the North, that cost above 1000. l'.</p>
+            <p>The stop of Trade was of prejudice to Scotland, above 50000. l'.</p>
+            <p>18000. l'. a moneth will not defray the charge of our Armies at New-castle, and in Scotland; besides, the 850. l'. <hi>per diem</hi> which we receive from the Nor<g ref="char:EOLhyphen"/>therne parts and Counties.</p>
+            <p>There was furnished by the severall Shires of the Kingdome, 2000. Baggots, horses for carrying vi<g ref="char:EOLhyphen"/>ctuals to the Souldiers they sent out.</p>
+            <p>And about a thousand were bought for carrying the Commanders baggage, of which above 1000. have been lost in England, and have perished in the journey; and of 500: horse, and 100 Oxen for the Common, the halfe is also lost; which losse will a<g ref="char:EOLhyphen"/>mount to above 6500. l'.</p>
+            <p>Many of the 2500. troop horse cost at the severall prices by the Shires, and will lose of them, partly by death, and partly by decay above 5500. l'.</p>
+            <p>Summe of the last, 271500. l'.</p>
+            <pb facs="tcp:93004:5"/>
+            <p>The English Lords Commissioners questioned the Scottish Commissioners for charges, whether this be a positive demand, or whether an intimation of the charges there, to induce the Kingdome of England to take your distressed estate into consideration, and to affoord you some friendly assistance.</p>
+            <p>The answer of the Scots Commissioners to the question of the English Lords, concerning the summe demanded for their charges.</p>
+            <p>We would be no lesse willing to beare the losse, if we had ability, then we have been ready to undergoe the hazard; but because the burthen of the whole charge doth farre exceed our strength, we have, as is more fully contained in our papers, represented unto your Lordships, our charges and losses, not intend<g ref="char:EOLhyphen"/>ing to demand a totall reparation, but in some mea<g ref="char:EOLhyphen"/>sure beare the remnant; which wee conceive your Lordships having considered our reasons to bee a matter, not of our covetousnesse, but of the justice and kindnesse of the Kingdome of England.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93004:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
